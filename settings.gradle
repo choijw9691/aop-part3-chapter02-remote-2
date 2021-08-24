@@ -1,0 +1,2 @@
+rootProject.name = "aop-part3-chapter02-remote"
+include ':app'
